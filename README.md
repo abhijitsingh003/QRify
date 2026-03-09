@@ -15,15 +15,15 @@ Qrify is a modern, full-stack web application that allows users to create, manag
 
 ### 1. User Dashboard
 Track and manage all your generated QR codes in one place.
-![Dashboard](Dashboard.png)
+![Dashboard](assets/Dashboard.png)
 
 ### 2. Create New QR Code
 Intuitive interface for generating customized QR codes with advanced options.
-![Create QR Code](Create%20link.png)
+![Create QR Code](assets/Create%20link.png)
 
 ### 3. Authentication
 Secure login and signup flow.
-![Sign Up](Signup.png)
+![Sign Up](assets/Signup.png)
 
 ## 💻 Tech Stack
 
