@@ -64,6 +64,3 @@ Secure login and signup flow.
    # Create a .env file and add VITE_API_BASE_URL
    npm run dev
    ```
-
-4. **Access the application:**
-   Open your browser and navigate to `http://localhost:5173`.
